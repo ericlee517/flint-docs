@@ -7,9 +7,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首页', link: '/' },
+      { text: '首页', link: '../' },
       { text: 'Horizon', link: '/horizon' },
-      { text: 'Castle' , link: '/castle'}
+      { text: '前往官网' , link: 'https://turboflint.cn'}
     ],
 
     sidebar: [
@@ -17,13 +17,15 @@ export default defineConfig({
         text: 'Horizon 里森',
         items: [
           { text: '什么是里森', link: '/horizon' },
-          { text: '如何加入里森创作者', link: '/horizon/how-to-join' }
+          { text: '如何加入里森创作者', link: '/horizon/how-to-join' },
+          { text: '什么是知识共享协议', link: '/horizon/cc' },
+          { text: '版权声明', link: '/horizon/copyright' }
         ]
       },
      {
        text: 'Castle 卡索',
        item:[
-        { text: '如何使用Castle', link: '/castle/how-to-use' }
+        { text: '卡索数据源', link: '/castle/data-source' }
        ]
      }
     ],
