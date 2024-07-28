@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "火石产品文档"
-  text: "火石的产品文档，帮助您快速入手。"
-  tagline: My great project tagline
+  text: ""
+  tagline: 火石的产品文档，帮助您快速入手各类产品。
   actions:
     - theme: brand
       text: Horizon
