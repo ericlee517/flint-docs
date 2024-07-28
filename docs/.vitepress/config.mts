@@ -14,12 +14,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Horizon 里森',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '什么是里森', link: '/horizon' },
+          { text: '如何加入里森创作者', link: '/horizon/how-to-join' }
         ]
-      }
+      },
+     {
+       text: 'Castle 卡索',
+       item:[
+        { text: '如何使用Castle', link: '/castle/how-to-use' }
+       ]
+     }
     ],
 
     socialLinks: [
