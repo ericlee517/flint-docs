@@ -24,7 +24,7 @@ export default defineConfig({
       },
      {
        text: 'Castle 卡索',
-       item:[
+       items:[
         { text: '卡索数据源', link: '/castle/data-source' }
        ]
      }
