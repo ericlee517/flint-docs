@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '../' },
-      { text: 'Horizon', link: '/horizon' },
+      { text: 'Horizon', link: '/horizon/what-is-horizon' },
       { text: '前往官网' , link: 'https://turboflint.cn'}
     ],
 
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Horizon 里森',
         items: [
-          { text: '什么是里森', link: '/horizon' },
+          { text: '什么是里森', link: '/horizon/what-is-horizon' },
           { text: '如何加入里森创作者', link: '/horizon/how-to-join' },
           { text: '什么是知识共享协议', link: '/horizon/cc' },
           { text: '版权声明', link: '/horizon/copyright' }
