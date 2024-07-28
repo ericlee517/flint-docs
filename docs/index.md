@@ -3,23 +3,19 @@
 layout: home
 
 hero:
-  name: "Flint-Docs"
-  text: "Just Docs"
+  name: "火石产品文档"
+  text: "火石的产品文档，帮助您快速入手。"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Horizon
+      link: /horizon
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Castle 卡索
+      link: /castle
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 火石制作
+    details: 由火石官方制作的产品使用文档，手把手教您熟练使用各类产品。
 ---
 
