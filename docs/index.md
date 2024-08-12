@@ -9,13 +9,13 @@ hero:
   actions:
     - theme: brand
       text: Horizon
-      link: /horizon
+      link: /horizon/what-is-horizon
     - theme: alt
       text: Castle 卡索
-      link: /castle
+      link: /castle/the-list
 
 features:
-  - title: 火石制作
+  - title: 火石出品
     details: 由火石官方制作的产品使用文档，手把手教您熟练使用各类产品。
 ---
 
