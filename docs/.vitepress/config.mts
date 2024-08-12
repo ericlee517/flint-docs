@@ -27,6 +27,12 @@ export default defineConfig({
        items:[
         { text: '卡索数据源', link: '/castle/data-source' }
        ]
+     },
+     {
+       text: '其他',
+       items:[
+        { text: '官网更新日志',link: 'others/flint-updates' }
+       ]
      }
     ],
 
