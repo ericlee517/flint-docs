@@ -31,7 +31,7 @@ export default defineConfig({
      {
        text: '其他',
        items:[
-        { text: '官网更新日志',link: 'others/flint-updates' }
+        { text: '官网更新日志',link: 'others/site-updates' }
        ]
      }
     ],
