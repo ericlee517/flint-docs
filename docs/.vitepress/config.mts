@@ -9,6 +9,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '../' },
       { text: 'Horizon', link: '/horizon/what-is-horizon' },
+      { text: 'Castle', link: '/castle/what-is-castle'},
+      { text: 'Credential', link:'/credential/what-is-credential'},
       { text: '前往官网' , link: 'https://turboflint.cn'}
     ],
 
