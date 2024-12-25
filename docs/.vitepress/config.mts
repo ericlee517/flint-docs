@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '../' },
       { text: 'Horizon', link: '/horizon/what-is-horizon' },
-      { text: 'Castle', link: '/castle/what-is-castle'},
+      { text: 'BroKen', link: '/castle/what-is-castle'},
       { text: 'Credential', link:'/credential/what-is-credential'},
       { text: '前往官网' , link: 'https://turboflint.cn'}
     ],
@@ -25,25 +25,18 @@ export default defineConfig({
           { text: '版权声明', link: '/horizon/copyright' }
         ]
       },
-     {
-       text: 'Castle 卡索',
-       items:[
-        { text: '卡索数据源', link: '/castle/data-source' }
-       ]
-     },
       {
        text: 'Credential 凭证',
        items:[
         { text: '什么是凭证', link: '/credential/what-is-credential'},
-        { text: '如何注销凭证', link:'/credential/how-to-delete'},
-        { text: '关于点数', link:'/credential/about-counts'},
-        { text: '关于徽章', link:'/credential/about-badge'}
+        { text: '如何注销凭证', link:'/credential/how-to-delete'}
        ]
      },
      {
        text: '其他',
        items:[
         { text: '官网更新日志',link: 'others/site-updates' }
+        { text: '破碎宇宙项目版权声明',link: 'others/broken-copyright' }
        ]
      }
     ],
