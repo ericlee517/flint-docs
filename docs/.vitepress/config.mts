@@ -35,7 +35,8 @@ export default defineConfig({
      {
        text: '其他',
        items:[
-        { text: '官网更新日志',link: 'others/site-updates' }
+        { text: '官网更新日志',link: 'others/site-updates' },
+        { text: 'BROKEN SITE 更新日志',link: 'others/broken-update' },
         { text: '破碎宇宙项目版权声明',link: 'others/broken-copyright' }
        ]
      }
